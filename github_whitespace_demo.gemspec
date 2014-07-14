@@ -6,9 +6,9 @@ require 'github_whitespace_demo/version'
 Gem::Specification.new do |spec|
   spec.name          = "github_whitespace_demo"
   spec.version       = GithubWhitespaceDemo::VERSION
-  spec.authors       = ["Daniel Arnould"]
+  spec.authors       = ["Dan Arnould"]
   spec.email         = ["dan@arnould.co.uk"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Whitespace-aware diff demonstration.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
