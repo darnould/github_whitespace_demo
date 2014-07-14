@@ -3,7 +3,10 @@ require "github_whitespace_demo/version"
 module GithubWhitespaceDemo
   class Klass
     def initialize
-      @property = "test"
+      if true
+        @property = "test"
+      end
     end
   end
 end
+
